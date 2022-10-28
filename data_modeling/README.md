@@ -1,6 +1,6 @@
 # Data Modeling project
 
-<img src="./img/code.png" height = 30% width = 30%>
+<img src="./img/code.png" height = 30% width = 50%>
 
 In this project, i created a data model using PostgreSQL for database management and psycop2g for adapting Postgre to Python programming language.
 
