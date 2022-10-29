@@ -1,4 +1,7 @@
-# data_modeling_etl_jobs
+# Data Modeling and Data Warehouse
+
+<img src='./data_modeling/img/data_diagram.png' width=40% height = 30%>
+
 Building data model and ETL jobs.
 
 In each folder, there is detailed information about the tasks that were performed in each project.
