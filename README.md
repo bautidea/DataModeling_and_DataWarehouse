@@ -1,6 +1,6 @@
 # Data Modeling and Data Warehouse
 
-<img src='./data_modeling/img/data_diagram.png' width=40% height = 30%>
+<img src='./data_modeling/img/data_diagram.png'>
 
 Building data model and ETL jobs.
 
