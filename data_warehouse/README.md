@@ -11,5 +11,3 @@ In order to build the data warehouse, i started from the ERD (Entity Relationshi
 After finishing the star schema, i performed queries and multiple joins using pgAdmin to create the data warehouse. 
 
 The objective of building a data warehouse is to simplify queries and execution times, it is built in a way that you can easily combine all the tables, also, queries are easier to execute and understand for the business people, because there are fewer tables and the data can be obtained from tables next to each other.
-
-This project served to gain a deeper understanding of the data journey, from its collection to its bussines analysis or use.
