@@ -1,5 +1,6 @@
 # Data Modeling and Data Warehouse
 
+<p align="center">
 <img src='./data_modeling/img/data_diagram.png'>
 
 Building data model and ETL jobs.
