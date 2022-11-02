@@ -1,5 +1,6 @@
 # Data Warehouse
 
+<p align="center">
 <img src='./img/erd_schema.png' width=40% height = 30%> <img src='./img/dvd_star_schema.png' width=40% height = 30%>
 
 The objective of this projects was to create a data warehouse from a database that i downloaded from https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/. 
